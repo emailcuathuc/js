@@ -113,5 +113,5 @@ const giturl = /^https?:\/\/github\.com\/(.+?)\/(.+?)\/(?!releases\/)(?:(?:blob|
   doc.getElementById("t3").addEventListener("click", () => {
     c("m");
   });
-  doc.getElementById("g").addEventListener("input", a);
+  doc.getElementById("g1").addEventListener("input", a);
 })(document);
